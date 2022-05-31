@@ -2,8 +2,7 @@
 To demonstrate circle ci for makefiles 
 
 # Template:
-[![CircleCI](https://circleci.com/gh/kgayathrii83/myrepo/tree/main.svg?style=svg)](https://circleci.com/gh/kgayathrii83/myrepo/tree/main)
-
+[![CircleCI](https://circleci.com/gh/kgayathrii83/myrepo/tree/circleci-project-setup.svg?style=svg)](https://circleci.com/gh/kgayathrii83/myrepo/tree/circleci-project-setup)
 
 A few things to do with this project:
 
