@@ -36,8 +36,9 @@ jobs:
       - run:
           name: run setup
           command: |
+            make setup          
             . venv/bin/activate
-            make setup
+
 
       # run install!
       - run:
